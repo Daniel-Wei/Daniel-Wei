@@ -17,16 +17,16 @@
 [![Github](https://www.vectorlogo.zone/logos/github/github-ar21.svg)](https://www.github.com/ "git hosting")
 [![Python](https://www.vectorlogo.zone/logos/python/python-ar21.svg)](https://www.python.org/ "build-time scripts")
 [![Java](https://www.vectorlogo.zone/logos/java/java-ar21.svg)](https://www.java.com)
-[![JS](https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg)](https://www.javascript.com/)
-[![TS](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)](https://www.typescriptlang.org/)
-[![Haskell](https://www.vectorlogo.zone/logos/haskell/haskell-icon.svg)](https://www.haskell.org/)
-[![Swift](https://www.vectorlogo.zone/logos/swift/swift-icon.svg)](https://www.apple.com/au/swift/)
+[![JS](https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg)](https://www.javascript.com/)
+[![TS](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg)](https://www.typescriptlang.org/)
+[![Haskell](https://www.vectorlogo.zone/logos/haskell/haskell-horizontal.svg)](https://www.haskell.org/)
+[![Swift](https://www.vectorlogo.zone/logos/swift/swift-horizontal.svg)](https://www.apple.com/au/swift/)
 [![Spring](https://www.vectorlogo.zone/logos/springio/springio-ar21.svg)](https://spring.io/)
 [![Figma](https://www.vectorlogo.zone/logos/figma/figma-ar21.svg)](https://www.figma.com/)
 [![Docker](https://www.vectorlogo.zone/logos/docker/docker-ar21.svg)](https://www.docker.com/)
 [![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg)](https://www.mysql.com/)
-[![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)](https://www.postman.com/)
-[![Jira](https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg)](https://www.atlassian.com/software/jira)
+[![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg)](https://www.postman.com/)
+[![Jira](https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg)](https://www.atlassian.com/software/jira)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
