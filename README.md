@@ -13,24 +13,21 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-
-
-[![Java](https://www.vectorlogo.zone/logos/java/java-ar21.svg)](https://www.java.com)
-[![Spring](https://www.vectorlogo.zone/logos/springio/springio-ar21.svg)](https://spring.io/)
-[![Figma](https://www.vectorlogo.zone/logos/figma/figma-ar21.svg)](https://www.figma.com/)
-[![Docker](https://www.vectorlogo.zone/logos/docker/docker-ar21.svg)](https://www.docker.com/)
-[![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg)](https://kubernetes.io/)
-[![Rancher](https://www.vectorlogo.zone/logos/rancher/rancher-ar21.svg)](https://rancher.com/)
-[![Redis](https://www.vectorlogo.zone/logos/redis/redis-ar21.svg)](https://redis.io/)
-[![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg)](https://www.jenkins.io/)
-[![AWS S3](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg)](https://aws.amazon.com/ "Hosting")
 [![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)](https://git-scm.com/ "Version control")
 [![Github](https://www.vectorlogo.zone/logos/github/github-ar21.svg)](https://www.github.com/ "git hosting")
 [![Python](https://www.vectorlogo.zone/logos/python/python-ar21.svg)](https://www.python.org/ "build-time scripts")
-[![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg)](https://www.mongodb.com/)
-[![NodeJS](https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg)](https://nodejs.org)
-[![Linux](https://www.vectorlogo.zone/logos/linux/linux-ar21.svg)](https://www.linux.org/)
-[![Angular](https://www.vectorlogo.zone/logos/angular/angular-ar21.svg)](https://angular.io)
+[![Java](https://www.vectorlogo.zone/logos/java/java-ar21.svg)](https://www.java.com)
+[![JS](https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg)](https://www.javascript.com/)
+[![TS](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)](https://www.typescriptlang.org/)
+[![Haskell](https://www.vectorlogo.zone/logos/haskell/haskell-icon.svg)](https://www.haskell.org/)
+[![Swift](https://www.vectorlogo.zone/logos/swift/swift-icon.svg)](https://www.apple.com/au/swift/)
+[![Spring](https://www.vectorlogo.zone/logos/springio/springio-ar21.svg)](https://spring.io/)
+[![Figma](https://www.vectorlogo.zone/logos/figma/figma-ar21.svg)](https://www.figma.com/)
+[![Docker](https://www.vectorlogo.zone/logos/docker/docker-ar21.svg)](https://www.docker.com/)
+[![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg)](https://www.mysql.com/)
+[![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)](https://www.postman.com/)
+[![Jira](https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg)](https://www.atlassian.com/software/jira)
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
