@@ -40,15 +40,3 @@
 </a>
 </p>
 
-<table><tr><td bgcolor=red> 红色背景 </td></tr></table>
-<table><tr><td bgcolor=orange> 橙色背景 </td></tr></table>
-<table><tr><td bgcolor=yellow> 黄色背景 </td></tr></table>
-<table><tr><td bgcolor=green> 绿色背景 </td></tr></table>
-<table><tr><td bgcolor=cyan> 青色背景 </td></tr></table>
-<table><tr><td bgcolor=blue> 蓝色背景 </td></tr></table>
-<table><tr><td bgcolor=violet> 紫罗兰色背景 </td></tr></table>
-
-<table><tr><td bgcolor=gray> 灰色背景 </td></tr></table>
-<table><tr><td bgcolor=purple> 紫色背景 </td></tr></table>
-
-
