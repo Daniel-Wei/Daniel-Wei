@@ -39,3 +39,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=daniel-wei&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<style>
+body { background-color: #000 !important; }
+h1,h2,h3,h4,h5,h6,h7,p { color: #999 !important; }
+</style>
