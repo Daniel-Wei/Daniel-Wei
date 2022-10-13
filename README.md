@@ -98,6 +98,8 @@
 <a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-illustrator.svg" alt="Adobe Illustrator" width="21px" height="21px"></a>
 <a href="https://inkscape.org/" title="Inkscape"><img src="https://github.com/get-icon/geticon/raw/master/icons/inkscape.svg" alt="Inkscape" width="21px" height="21px"></a>
 
+https://www.vectorlogo.zone/logos/python/python-icon.svg
+
 [![Java](https://www.vectorlogo.zone/logos/java/java-ar21.svg)](https://www.java.com)
 [![Spring](https://www.vectorlogo.zone/logos/springio/springio-ar21.svg)](https://spring.io/)
 [![Kafka](https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg)](https://kafka.apache.org/)
