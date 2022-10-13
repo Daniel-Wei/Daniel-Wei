@@ -4,7 +4,7 @@
 
 😺 Currently on the leave of absence as a Computer Science Honours student @Monash Uni
 
-🌱 I am learning full stack development
+🌱 I am learning Full Stack Dev & Algorithmic Trading
 
 🙌 Passionate about algorithms and data structures
 
