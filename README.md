@@ -9,7 +9,20 @@
 🙌 Passionate about achieving more understanding about algorithms and data structures
 
 
-<img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+##  :man_technologist:  [Steven Ding](https://yaoyangdi.github.io) 
+
+<br />
+
+👋 Hi, I'm Steven
+
+😺 Currently as a final-year Computer Science undergraduate @Monash Uni
+
+🌱 I am learning full stack development and DevOps
+
+🙌 I have gained some basic understanding on the front end and am now moving deeper into the back end
+
+<br>
+<img alt="Coder GIF" height=500 width=500 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 <br>
 
 ### 🛠 &nbsp;Tech Stack
