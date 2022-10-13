@@ -19,7 +19,7 @@
 [![Java](https://www.vectorlogo.zone/logos/java/java-ar21.svg)](https://www.java.com)
 [![JS](https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg)](https://www.javascript.com/)
 [![TS](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg)](https://www.typescriptlang.org/)
-[![Haskell](https://www.vectorlogo.zone/logos/haskell/haskell-horizontal.svg)](https://www.haskell.org/)
+[![Haskell](https://www.vectorlogo.zone/logos/haskell/haskell-ar21.svg)](https://www.haskell.org/)
 [![Swift](https://www.vectorlogo.zone/logos/swift/swift-horizontal.svg)](https://www.apple.com/au/swift/)
 [![Spring](https://www.vectorlogo.zone/logos/springio/springio-ar21.svg)](https://spring.io/)
 [![Figma](https://www.vectorlogo.zone/logos/figma/figma-ar21.svg)](https://www.figma.com/)
