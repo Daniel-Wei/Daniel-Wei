@@ -17,7 +17,7 @@
 
 [![Java](https://www.vectorlogo.zone/logos/java/java-ar21.svg)](https://www.java.com)
 [![Spring](https://www.vectorlogo.zone/logos/springio/springio-ar21.svg)](https://spring.io/)
-[![Figma](https://www.vectorlogo.zone/logos/figma/figma-ar21.svg)]
+[![Figma](https://www.vectorlogo.zone/logos/figma/figma-ar21.svg)](https://www.figma.com/)
 [![Docker](https://www.vectorlogo.zone/logos/docker/docker-ar21.svg)](https://www.docker.com/)
 [![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg)](https://kubernetes.io/)
 [![Rancher](https://www.vectorlogo.zone/logos/rancher/rancher-ar21.svg)](https://rancher.com/)
