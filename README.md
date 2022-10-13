@@ -40,9 +40,15 @@
 </a>
 </p>
 
-<table><tr><td bgcolor=#FF00FF>背景色的设置是按照十六进制颜色值：#7FFFD4</td></tr></table>
-<table><tr><td bgcolor=#FF83FA>背景色的设置是按照十六进制颜色值：#FF83FA</td></tr></table>
-<table><tr><td bgcolor=#D1EEEE>背景色的设置是按照十六进制颜色值：#D1EEEE</td></tr></table>
-<table><tr><td bgcolor=#C0FF3E>背景色的设置是按照十六进制颜色值：#C0FF3E</td></tr></table>
+<table><tr><td bgcolor=red> 红色背景 </td></tr></table>
+<table><tr><td bgcolor=orange> 橙色背景 </td></tr></table>
+<table><tr><td bgcolor=yellow> 黄色背景 </td></tr></table>
+<table><tr><td bgcolor=green> 绿色背景 </td></tr></table>
+<table><tr><td bgcolor=cyan> 青色背景 </td></tr></table>
+<table><tr><td bgcolor=blue> 蓝色背景 </td></tr></table>
+<table><tr><td bgcolor=violet> 紫罗兰色背景 </td></tr></table>
+
+<table><tr><td bgcolor=gray> 灰色背景 </td></tr></table>
+<table><tr><td bgcolor=purple> 紫色背景 </td></tr></table>
 
 
