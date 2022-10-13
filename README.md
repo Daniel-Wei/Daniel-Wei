@@ -1,8 +1,17 @@
-### Hi there 👋 
+<br />
 
-- 🌱 I’m currently learning Devops, Java, Cybersecurity, Algorithm
-- 💪 Newbie for Web security
-- 😄 Pronouns: She/her
+👋 Hi, I'm Daniel
+
+😺 Currently on the leave of absence as a Computer Science Honours student @Monash Uni
+
+🌱 I am learning full stack development
+
+🙌 Passionate about achieving more understanding about algorithms and data structures
+
+# Gifs
+
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+
 
 ### 🛠 &nbsp;Tech Stack
 
