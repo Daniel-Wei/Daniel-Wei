@@ -35,6 +35,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-wei)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </p>
 
