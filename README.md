@@ -10,12 +10,9 @@
 
 🔢 Besides programming, also like mathematics especially linear algebra
 
-
-<p align="center">
-  <img alt="Coder GIF" height=375 width=525 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
-  <img height=375 width=525 src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=daniel-wei&layout=compact&langs_count=8&theme=algolia"/>
-</p>
-
+<br>
+<img alt="Coder GIF" height=375 width=525 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+<br>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -40,7 +37,6 @@
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=daniel-wei&theme=react-dark">
 </p>
-
 
 
 
