@@ -38,5 +38,6 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=daniel-wei&theme=react-dark">
 </p>
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
