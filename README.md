@@ -34,10 +34,6 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=daniel-wei&theme=react-dark">
-</p>
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
@@ -48,8 +44,6 @@
 > 🏆 280 Contributions in the Year 2022
  > 
 > 📦 188.4 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
  > 
