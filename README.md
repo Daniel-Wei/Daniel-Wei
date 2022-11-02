@@ -38,10 +38,11 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=daniel-wei&theme=react-dark">
 </p>
 
-<p align = "center">
- 
- [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=[daniel-wei])](https://github.com/[daniel-wei])
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
 
-</p>
+
+
+<!--END_SECTION:waka-->
 
 
