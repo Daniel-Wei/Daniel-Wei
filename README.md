@@ -34,6 +34,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=wangscaler&theme=react-dark">
+</p>
 
