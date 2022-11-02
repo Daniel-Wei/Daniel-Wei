@@ -35,6 +35,6 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=wangscaler&theme=react-dark">
+ <img src="https://activity-graph.herokuapp.com/graph?username=daniel-wei&theme=react-dark">
 </p>
 
