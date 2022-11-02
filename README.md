@@ -39,8 +39,9 @@
 </p>
 
 <p align = "center">
- <!--START_SECTION:waka-->
- <!--END_SECTION:waka-->
+ 
+ [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=[daniel-wei])](https://github.com/[daniel-wei])
+
 </p>
 
 
