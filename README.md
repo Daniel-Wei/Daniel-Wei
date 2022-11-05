@@ -35,39 +35,13 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-189-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 175 Contributions in the Year 2022
- > 
-> 📦 188.4 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 8 Public Repositories 
- > 
-> 🔑 17 Private Repositories  
- > 
-**I Mostly Code in Python** 
 
 ```text
-Python                   3 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
-C                        2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-TypeScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-Java                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18%
-
+Java                          🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   39.31 %
+Markdown                      🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   31.34 %
+HTML                          🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   28.99 %
+IDEA_MODULE                   ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.36 %
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/Daniel-Wei/Daniel-Wei/main/charts/bar_graph.png) 
-
-
- Last Updated on 02/11/2022 18:46:52 UTC
 <!--END_SECTION:waka-->
 
