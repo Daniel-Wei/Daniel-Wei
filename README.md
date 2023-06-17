@@ -16,6 +16,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
+[![C#](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)](https://git-scm.com/ "Version control")
 [![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)](https://git-scm.com/ "Version control")
 [![Github](https://www.vectorlogo.zone/logos/github/github-ar21.svg)](https://www.github.com/ "git hosting")
 [![Python](https://www.vectorlogo.zone/logos/python/python-ar21.svg)](https://www.python.org/ "build-time scripts")
