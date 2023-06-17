@@ -2,13 +2,15 @@
 
 👋 Hi, I'm Daniel
 
-👾 Currently working as a junior full stack software developer at Enlighten Operational Excellence
+👾 Currently working as a Junior Full Stack Software Developer at Enlighten Operational Excellence
 
-🌱 I am learning Full Stack Dev & Algorithmic Trading
+👨‍🎓 Achieved a Bachelor Degree in Computer Science from Monash University in 2022
 
-🙌 Passionate about algorithms and data structures
+🌱 Learning Full Stack Dev in .Net & Spring Boot, and Algorithmic Trading
 
-🔢 Besides programming, also like mathematics especially linear algebra
+🙌 Passionate about Algorithms and Data Structures
+
+🔢 Besides Programming, also like Mathematics especially Linear Algebra
 
 <br>
 <img alt="Coder GIF" height=375 width=525 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
