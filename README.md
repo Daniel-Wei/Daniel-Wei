@@ -15,6 +15,7 @@
 <br>
 
 ### 🛠 &nbsp;Tech Stack
+[![.net](https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg)](https://dotnet.microsoft.com/en-us/apps/aspnet)
 [![.net](https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg)](https://dotnet.microsoft.com/en-us/apps/aspnet)
 [![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)](https://git-scm.com/ "Version control")
 [![Github](https://www.vectorlogo.zone/logos/github/github-ar21.svg)](https://www.github.com/ "git hosting")
