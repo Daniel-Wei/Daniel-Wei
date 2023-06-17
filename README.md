@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Daniel
 
-😺 Currently on the leave of absence as a Computer Science Honours student @Monash Uni
+👾 Currently working as a junior full stack software developer at Enlighten Operational Excellence
 
 🌱 I am learning Full Stack Dev & Algorithmic Trading
 
