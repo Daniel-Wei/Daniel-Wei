@@ -32,6 +32,8 @@
 [![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg)](https://www.mysql.com/)
 [![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg)](https://www.postman.com/)
 [![Jira](https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg)](https://www.atlassian.com/software/jira)
+[![React](https://vectorlogo.zone/util/preview.html?image=/logos/reactjs/reactjs-ar21.svg)](https://react.dev/)
+
 
 
 ### ⚙️ &nbsp;GitHub Analytics
