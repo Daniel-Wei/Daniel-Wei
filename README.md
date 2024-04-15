@@ -34,15 +34,12 @@
 [![Jira](https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg)](https://www.atlassian.com/software/jira)
 [![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)](https://react.dev/)
 
-
-
 ### ⚙️ &nbsp;GitHub Analytics
 
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+<p align="center">
+<a href="https://github.com/Daniel-Wei">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Daniel-Wei&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Daniel-Wei&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
