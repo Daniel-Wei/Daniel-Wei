@@ -8,7 +8,7 @@
 
 🌱 Learning Full Stack Dev in .Net & Spring Boot, and Algorithmic Trading
 
-🙌 Passionate about Algorithms and Data Structures
+🙌 Passionate about Algorithms and Data Structures: https://leetcode.com/u/Daniel_Wei/ 
 
 🔢 Besides Programming, also like Mathematics especially Linear Algebra
 
